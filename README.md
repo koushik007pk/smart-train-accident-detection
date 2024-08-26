@@ -62,6 +62,4 @@ The Train Safety Monitoring System is an Arduino-based project that monitors the
 
 Contributions are welcome! Feel free to open issues and propose improvements.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
